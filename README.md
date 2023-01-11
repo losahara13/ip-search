@@ -21,7 +21,7 @@ Simple programm and simple code.Made in Russia.With this program you can find ou
 * `git clone https://github.com/losahara13/ip-search`
 * `cd`
 * `ls`
-* `cd ip-search1
+* `cd ip-search`
 * `chmod +x install.sh`
 * if bash doesn't works:
 * `pip install -r requirements.txt`
