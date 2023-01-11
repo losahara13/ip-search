@@ -23,6 +23,7 @@ Simple programm and simple code.Made in Russia.With this program you can find ou
 * `ls`
 * `cd ip-search`
 * `chmod +x install.sh`
+* `bash install.sh`
 * if bash doesn't works:
 * `pip install -r requirements.txt`
 
